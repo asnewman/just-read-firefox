@@ -1,0 +1,1 @@
+Simple extension to read your current highlighted selection. Just right click on the page and select "Read aloud". Only works in Firefox.
