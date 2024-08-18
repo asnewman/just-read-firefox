@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Just Read",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A Firefox extension to read the highlighted text.",
   "permissions": ["contextMenus", "activeTab", "storage"],
   "background": {
@@ -27,7 +27,6 @@
       "48": "icon.png",
       "128": "icon.png"
     },
-    "default_popup": "options.html",
     "default_title": "Just Read"
   }
 }
